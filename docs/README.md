@@ -61,7 +61,7 @@
    git clone https://github.com/wushidia/MagiskOnWSALocalKitsuneMask.git --depth 1
    ```
 
-3. Run `cd MagiskOnWSALocal`.
+3. Run `cd MagiskOnWSALocalKitsuneMask`.
 4. Run `./scripts/run.sh`.
 5. Select the WSA version and its architecture (mostly x64).
 6. Select the version of Magisk.
